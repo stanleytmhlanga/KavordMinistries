@@ -1,0 +1,6 @@
+C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\UnitTesting\bin\Release\UnitTesting.dll
+C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\UnitTesting\bin\Release\UnitTesting.pdb
+C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\UnitTesting\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\UnitTesting\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\UnitTesting\obj\Release\UnitTesting.dll
+C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\UnitTesting\obj\Release\UnitTesting.pdb

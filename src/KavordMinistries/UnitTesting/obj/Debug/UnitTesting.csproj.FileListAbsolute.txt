@@ -1,0 +1,7 @@
+C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\UnitTesting\bin\Debug\UnitTesting.dll
+C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\UnitTesting\bin\Debug\UnitTesting.pdb
+C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\UnitTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\UnitTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\UnitTesting\obj\Debug\UnitTesting.dll
+C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\UnitTesting\obj\Debug\UnitTesting.pdb
