@@ -44,12 +44,6 @@
     <Compile Include="KavordMinistriesDomain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\KavordMinistriesApi\KavordMinistriesApi.csproj">
-      <Project>{a6bd57c8-c960-402b-8f66-0f56ae4a9365}</Project>
-      <Name>KavordMinistriesApi</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
