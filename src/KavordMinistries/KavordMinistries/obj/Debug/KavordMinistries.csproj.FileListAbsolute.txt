@@ -16,6 +16,7 @@ C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\Kavor
 C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\KavordMinistries\bin\Antlr3.Runtime.dll
 C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\KavordMinistries\bin\EntityFramework.dll
 C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\KavordMinistries\bin\EntityFramework.SqlServer.dll
+C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\KavordMinistries\bin\KavordMinistriesApi.dll
 C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\KavordMinistries\bin\Microsoft.AspNet.Identity.Core.dll
 C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\KavordMinistries\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\KavordMinistries\bin\Microsoft.AspNet.Identity.Owin.dll
@@ -40,6 +41,7 @@ C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\Kavor
 C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\KavordMinistries\bin\System.Web.WebPages.dll
 C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\KavordMinistries\bin\System.Web.WebPages.Razor.dll
 C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\KavordMinistries\bin\WebGrease.dll
+C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\KavordMinistries\bin\KavordMinistriesApi.pdb
 C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\KavordMinistries\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\KavordMinistries\bin\System.Web.Helpers.xml
 C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\KavordMinistries\bin\System.Web.Mvc.xml

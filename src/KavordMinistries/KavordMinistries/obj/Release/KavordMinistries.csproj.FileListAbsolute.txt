@@ -66,3 +66,6 @@ C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\Kavor
 C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\KavordMinistries\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\KavordMinistries\obj\Release\KavordMinistries.dll
 C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\KavordMinistries\obj\Release\KavordMinistries.pdb
+C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\KavordMinistries\bin\KavordMinistriesApi.dll
+C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\KavordMinistries\bin\KavordMinistriesApi.pdb
+C:\Users\stanleym\Documents\Stanley`s Staff\BlueReeds\KavordMinistries\src\KavordMinistries\KavordMinistries\obj\Release\KavordMinistries.csprojResolveAssemblyReference.cache
